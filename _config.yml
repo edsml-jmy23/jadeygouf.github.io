@@ -1,11 +1,16 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: 🌷 Jade Ygouf # your name (or website title) here
+logo: "/images/website_headshot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
   <br><br>
-  Second description 
+  Hi! My name is Jade - a data scientist working where science and AI meets sustainable development. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  🎓 MSc in Environmental Data Science and Machine Learning from Imperial College London, BASc in Arts and Sciences from UCL. 
+  <br><br>
+  👩🏻‍💻 I have supported public and private sector clients with data storytelling & modelling.
+  <br><br>
+  🌍 I've lived in 3 countries, and have learned 5 languages.
+  <br><br>
+  <a href="https://www.linkedin.com/in/jade-ygouf/"></a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
