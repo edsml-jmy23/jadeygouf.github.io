@@ -6,9 +6,9 @@
 
 ![](https://img.shields.io/badge/Status-Ongoing-C95C0A)
 <br>
-[VisionGraph: Using Deep Neural Networks
-for Automated Digitalisation of Geological
-Surveys’ Line Charts]
+Master dissertation at TotalEnergies : VisionGraph: Using Deep Neural Networks
+for Automated Digitalisation of Geological.
+Surveys’ Line Charts
 <br><br>
 <img src="images/master.png?raw=true" style="width: 100%; height: auto;">
 
@@ -16,7 +16,7 @@ Surveys’ Line Charts]
 [![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/jade_ygouf/Twitter)
 ![](https://img.shields.io/badge/Status-Complete-006400)
 <br>
-[From discourses to emotions: A Twitter data-driven study of environmental worry using deep neural networks.](/pdf/undergrad_diss.pdf)
+[Undergraduate Dissertation : From discourses to emotions: A Twitter data-driven study of environmental worry using deep neural networks.](/pdf/undergrad_diss.pdf)
 <br><br>
 <img src="images/undergrad_diss.png?raw=true" style="width: 90%; height: auto;">
 
@@ -30,7 +30,32 @@ Surveys’ Line Charts]
 <img src="images/GMpaperCover.png?raw=true" style="width: 90%; height: auto;">
 
 ---
+[![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/jade_ygouf/Twitter)
+![](https://img.shields.io/badge/Status-Complete-006400)
+<br>
+[Undergraduate Disseratation : From discourses to emotions: A Twitter data-driven study of environmental worry using deep neural networks.](/pdf/undergrad_diss.pdf)
+<br><br>
+<img src="images/undergrad_diss.png?raw=true" style="width: 90%; height: auto;">
 
+---
+---
+[![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/jade_ygouf/Twitter)
+![](https://img.shields.io/badge/Status-Complete-006400)
+<br>
+[Undergraduate Disseratation : From discourses to emotions: A Twitter data-driven study of environmental worry using deep neural networks.](/pdf/undergrad_diss.pdf)
+<br><br>
+<img src="images/undergrad_diss.png?raw=true" style="width: 90%; height: auto;">
+
+
+---
+[![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/jade_ygouf/Twitter)
+![](https://img.shields.io/badge/Status-Complete-006400)
+<br>
+[Undergraduate Disseratation : From discourses to emotions: A Twitter data-driven study of environmental worry using deep neural networks.](/pdf/undergrad_diss.pdf)
+<br><br>
+<img src="images/undergrad_diss.png?raw=true" style="width: 90%; height: auto;">
+
+---
 ### Projects
 
 ![](https://img.shields.io/badge/Status-Complete-006400)
