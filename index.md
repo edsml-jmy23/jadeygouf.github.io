@@ -39,13 +39,13 @@ Presented at the Networks and Time II conference hosted by Network Science Insti
 [![](https://img.shields.io/badge/Google_Slides-View_Presentation-F4B400?logo=Google%20Slides
 )](https://docs.google.com/presentation/d/1R-vw4E3CUKKcTJrsTFLPDBQqbRnqqgB2/edit?usp=sharing&ouid=117319584829350518488&rtpof=true&sd=true)
 <br>
-**Sustainachain 🌿 - Hackathon-W3B London**
+**Sustainachain 🌿 - Hackathon-W3B London 2024**
 <br>
-Actively building an app - YouBee - as co-founder and Chief Data Officer. YouBee is a transformative tool addressing the longitudinal decline in youth mental health, offering a non-invasive self assessment solution in the form of a simple mobile game. Through interactive, choice-driven scenarios resembling the game Episode, YouBee's multi-layer AI model takes users’ choice data and maps it to insights about what their key stressors are, and what types of remedies fits them best. This dynamic, personalised mental health profile is then used to make highly tailored recommendations for resources, tools and professionals.
+In April 2024, I participated in my first hackathon, collaborating with a team of students I had never met before. Over the course of two intense days, we developed the source code for an MVP called Sustainachain, leveraging Tezos blockchain technology. Sustainachain is designed to enhance traceability and transparency for food retailers, helping them differentiate themselves by restoring consumer trust. The tool empowers customers to make informed choices by allowing them to trace organic products from farm to supermarket using secure codes, preventing fraud and ensuring the integrity of organic certifications.As someone new to blockchain and cryptocurrency, this experience was an invaluable opportunity to learn both the fundamentals of blockchain technology and the process of creating a viable business model. 
 <div style="text-align: center;">
   <img src="images/sustainachain.png?raw=true" style="width: 100%; height: auto;">
 </div>
-https://docs.google.com/presentation/d/1R-vw4E3CUKKcTJrsTFLPDBQqbRnqqgB2/edit?usp=sharing&ouid=117319584829350518488&rtpof=true&sd=true
+
 ---
 
 ![](https://img.shields.io/badge/Status-Complete-006400)
