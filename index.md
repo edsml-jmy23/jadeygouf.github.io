@@ -4,22 +4,21 @@
 
 ### Research 
 
-[![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/tediyankov/ParallelNetworkChange)
 ![](https://img.shields.io/badge/Status-Ongoing-C95C0A)
 <br>
-[Parallel Network Change: An Analysis of Migration-Trade-Terrorism Co-Evolution with Temporal Graph Distances and Latent Space Modelling](/pdf/Networks_and_Time II.pdf)
+[VisionGraph: Using Deep Neural Networks
+for Automated Digitalisation of Geological
+Surveys’ Line Charts]
 <br><br>
-<img src="images/NTPipeline.png?raw=true" style="width: 100%; height: auto;">
-
-Presented at the Networks and Time II conference hosted by Network Science Institute at Northeastern University London.
+<img src="images/master.png?raw=true" style="width: 100%; height: auto;">
 
 ---
-[![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/tediyankov/Bachelor-s-Thesis)
+[![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/jade_ygouf/Twitter)
 ![](https://img.shields.io/badge/Status-Complete-006400)
 <br>
-[Predicting Bilateral Refugee Flows: Evaluating the Gravity Model and Ethnocultural Linkages for Migration Policy](/pdf/BScThesis.pdf)
+[From discourses to emotions: A Twitter data-driven study of environmental worry using deep neural networks.](/pdf/undergrad_diss.pdf)
 <br><br>
-<img src="images/uclThesisCover.png?raw=true" style="width: 90%; height: auto;">
+<img src="images/undergrad_diss.png?raw=true" style="width: 90%; height: auto;">
 
 ---
 [![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/tediyankov/Gravity-Models-for-Global-Migration-Flows-A-Predictive-Evaluation)
