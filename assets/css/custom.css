@@ -1,0 +1,65 @@
+.buttons {
+    margin-top: 20px;
+}
+
+.button {
+    display: inline-flex;  /* Use inline-flex for proper alignment */
+    align-items: center;  /* Center items vertically */
+    padding: 7px 16px;
+    margin: 3px;
+    font-size: 14px;
+    color: #335736;
+    background-color: #e3dac9;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 20px; /* Rounder edges */
+    vertical-align: middle;
+}
+
+.button .icon {
+    width: 20px; /* Adjust size as needed */
+    height: 20px; /* Adjust size as needed */
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
+.button:hover {
+    background-color: #0056b3;
+    text-decoration: none;
+}
+
+/* Page title styling */
+h1 a {
+    font-family: 'Cutive Mono', monospace; /* Ensure the page title uses the same font */
+    font-size: 30px; /* Adjust the size */
+    color: #18392b; /* Change the color */
+    text-decoration: none;
+}
+
+h1 a:hover {
+    color: #555; /* Optional: change color on hover */
+}
+
+body {
+    font-family: 'Cutive Mono', monospace;
+}
+
+.button:hover {
+    background-color: #e5d3b3;
+    text-decoration: none;
+}
+
+/* Change hyperlink color */
+a:not(.button) {
+    color: #1f5f5b; /* Change this to your desired hyperlink color */
+}
+
+/* Change visited hyperlink color */
+a:visited {
+    color: #335736; /* Change this to your desired visited hyperlink color */
+}
+
+/* Change hyperlink color on hover */
+a:hover {
+    color: #b26634; /* Change this to your desired hyperlink color on hover */
+}
