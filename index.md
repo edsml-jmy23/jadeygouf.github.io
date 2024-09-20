@@ -36,6 +36,8 @@ Presented at the Networks and Time II conference hosted by Network Science Insti
 
 ![](https://img.shields.io/badge/Status-Complete-006400)
 ![](https://img.shields.io/badge/3rd_place-Sia_Hackathon_2024-bronze)
+[![](https://img.shields.io/badge/Google_Slides-View_Presentation-F4B400?logo=Google%20Slides
+)](https://docs.google.com/presentation/d/1R-vw4E3CUKKcTJrsTFLPDBQqbRnqqgB2/edit?usp=sharing&ouid=117319584829350518488&rtpof=true&sd=true)
 <br>
 **Sustainachain 🌿 - Hackathon-W3B London**
 <br>
@@ -43,7 +45,7 @@ Actively building an app - YouBee - as co-founder and Chief Data Officer. YouBee
 <div style="text-align: center;">
   <img src="images/sustainachain.png?raw=true" style="width: 100%; height: auto;">
 </div>
-
+https://docs.google.com/presentation/d/1R-vw4E3CUKKcTJrsTFLPDBQqbRnqqgB2/edit?usp=sharing&ouid=117319584829350518488&rtpof=true&sd=true
 ---
 
 ![](https://img.shields.io/badge/Status-Complete-006400)
