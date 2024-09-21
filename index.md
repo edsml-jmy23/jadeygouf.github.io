@@ -1,8 +1,10 @@
-## Data Science Portfolio
+## Data Science and Machine Learning Portfolio
 
 ---
 
-### Research 
+### Academic projects and research 
+
+---
 
 ![](https://img.shields.io/badge/Status-Ongoing-C95C0A)
 <br>
@@ -13,23 +15,7 @@ Surveys’ Line Charts
 <img src="images/master.png?raw=true" style="width: 100%; height: auto;">
 
 ---
-[![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/jade_ygouf/Twitter)
-![](https://img.shields.io/badge/Status-Complete-006400)
-<br>
-[Undergraduate Dissertation : From discourses to emotions: A Twitter data-driven study of environmental worry using deep neural networks.](/pdf/undergrad_diss.pdf)
-<br><br>
-<img src="images/undergrad_diss.png?raw=true" style="width: 90%; height: auto;">
 
----
-[![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/tediyankov/Gravity-Models-for-Global-Migration-Flows-A-Predictive-Evaluation)
-![](https://img.shields.io/badge/Status-Complete-006400)
-[![](https://img.shields.io/badge/Published-See_Online-3792CB)](https://link.springer.com/article/10.1007/s11113-024-09867-6)
-<br>
-[Gravity Models for Global Migration Flows: <br> A Predictive Evaluation](https://link.springer.com/article/10.1007/s11113-024-09867-6#:~:text=The%20central%20underlying%20assumption%20of,(see%20(Ramos%2C%202016)))
-<br><br>
-<img src="images/GMpaperCover.png?raw=true" style="width: 90%; height: auto;">
-
----
 [![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/jade_ygouf/Twitter)
 ![](https://img.shields.io/badge/Status-Complete-006400)
 <br>
@@ -38,24 +24,56 @@ Surveys’ Line Charts
 <img src="images/undergrad_diss.png?raw=true" style="width: 90%; height: auto;">
 
 ---
----
-[![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/jade_ygouf/Twitter)
+
 ![](https://img.shields.io/badge/Status-Complete-006400)
+![](https://img.shields.io/badge/3rd_place-Sia_Hackathon_2024-bronze)
+
 <br>
-[Undergraduate Disseratation : From discourses to emotions: A Twitter data-driven study of environmental worry using deep neural networks.](/pdf/undergrad_diss.pdf)
-<br><br>
-<img src="images/undergrad_diss.png?raw=true" style="width: 90%; height: auto;">
-
-
+**Real-Time Forecasting of Tropical Cyclones 🌪️**
+<br>
+ahahahhaha
+<div style="text-align: center;">
+  <img src="images/cyclone.png?raw=true" style="width: 100%; height: auto;">
+</div>
 ---
-[![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/jade_ygouf/Twitter)
 ![](https://img.shields.io/badge/Status-Complete-006400)
+![](https://img.shields.io/badge/3rd_place-Sia_Hackathon_2024-bronze)
+[![](https://img.shields.io/badge/Google_Slides-View_Presentation-F4B400?logo=Google%20Slides
+)](https://docs.google.com/presentation/d/1R-vw4E3CUKKcTJrsTFLPDBQqbRnqqgB2/edit?usp=sharing&ouid=117319584829350518488&rtpof=true&sd=true)
 <br>
-[Undergraduate Disseratation : From discourses to emotions: A Twitter data-driven study of environmental worry using deep neural networks.](/pdf/undergrad_diss.pdf)
-<br><br>
-<img src="images/undergrad_diss.png?raw=true" style="width: 90%; height: auto;">
+** Wildfire Prediction 🔥 **
+<br>
+In April 2024, I participated in my first hackathon, collaborating with a team of students I had never met before. Over the course of two intense days, we developed the source code for an MVP called Sustainachain, leveraging Tezos blockchain technology. Sustainachain is designed to enhance traceability and transparency for food retailers, helping them differentiate themselves by restoring consumer trust. The tool empowers customers to make informed choices by allowing them to trace organic products from farm to supermarket using secure codes, preventing fraud and ensuring the integrity of organic certifications.As someone new to blockchain and cryptocurrency, this experience was an invaluable opportunity to learn both the fundamentals of blockchain technology and the process of creating a viable business model. 
+<div style="text-align: center;">
+  <img src="images/sustainachain.png?raw=true" style="width: 100%; height: auto;">
+</div>
 
 ---
+![](https://img.shields.io/badge/Status-Complete-006400)
+![](https://img.shields.io/badge/3rd_place-Sia_Hackathon_2024-bronze)
+[![](https://img.shields.io/badge/Google_Slides-View_Presentation-F4B400?logo=Google%20Slides
+)](https://docs.google.com/presentation/d/1R-vw4E3CUKKcTJrsTFLPDBQqbRnqqgB2/edit?usp=sharing&ouid=117319584829350518488&rtpof=true&sd=true)
+<br>
+** Flood risk 🏘️**
+<br>
+ahaha 
+<div style="text-align: center;">
+  <img src="images/flood.png?raw=true" style="width: 100%; height: auto;">
+</div>
+
+---
+![](https://img.shields.io/badge/Status-Complete-006400)
+![](https://img.shields.io/badge/3rd_place-Sia_Hackathon_2024-bronze)
+[![](https://img.shields.io/badge/Google_Slides-View_Presentation-F4B400?logo=Google%20Slides
+)](https://docs.google.com/presentation/d/1R-vw4E3CUKKcTJrsTFLPDBQqbRnqqgB2/edit?usp=sharing&ouid=117319584829350518488&rtpof=true&sd=true)
+<br>
+**Analysis of the environmental condition of Nagasaki, Japan ⛰️**
+<br>
+ahaha 
+<div style="text-align: center;">
+  <img src="images/data.png?raw=true" style="width: 100%; height: auto;">
+</div>
+
 ### Projects
 
 ![](https://img.shields.io/badge/Status-Complete-006400)
@@ -71,7 +89,7 @@ In April 2024, I participated in my first hackathon, collaborating with a team o
 </div>
 
 ---
-
+## Kaggle Competitions
 ![](https://img.shields.io/badge/Status-Complete-006400)
 [![](https://img.shields.io/badge/Google_Colab-View_Project-F9AB00?logo=Colab)](https://colab.research.google.com/drive/1UxO3P1JRrXY3lyrIQey_nOZGo1wpey8T?usp=sharing)
 <br>
@@ -108,7 +126,7 @@ At the World Data Lab, I play a key role in the development of, and insight mini
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2_Umq8Uo1CQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
-
+## Medium Article
 ![](https://img.shields.io/badge/Status-Complete-006400)
 [![](https://img.shields.io/badge/Published-See_Online-3792CB)](https://www.brookings.edu/articles/building-a-prosperous-world-with-fewer-emissions/)
 [![](https://img.shields.io/badge/_-Watch_video-FF0000?logo=YouTube)](https://www.youtube.com/watch?v=lcD5tQhJbq8)
