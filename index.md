@@ -8,10 +8,9 @@
 
 ![](https://img.shields.io/badge/Status-Ongoing-C95C0A)
 <br>
-Master dissertation at TotalEnergies : VisionGraph- Using Deep Neural Networks
-for Automated Digitalisation of Geological Surveys’ Line Charts 📈. 
+**Master dissertation at TotalEnergies : VisionGraph- Using Deep Neural Networks
+for Automated Digitalisation of Geological Surveys’ Line Charts 📈.**
 <br><br>
-
 The climate and the biodiversity crisis are probably the greatest challenges of our time. To mitigate its detrimental consequences, carbon capture and storage (CCS) is a critical element of carbon management.In line with this plan, the TotalEnergies’ CSS team must conduct thorough investigations to assess geological regions and determine whether safe and longterm CO2 storage is feasible. The first task involves examining hundreds of geological studies.
 The main challenge encountered is that various artefacts, such as handwritten texts, brightness variability, and scan defects, are present in the scanned studies. To address these issues, this research project harnesses the power of supervised and transfer learning techniques to process scanned reports and “digitise line charts data".
 
@@ -41,8 +40,8 @@ The main challenge encountered is that various artefacts, such as handwritten te
 ![](https://img.shields.io/badge/Notions-Images_Preprocessing-red)
 
 ---
-![](https://img.shields.io/badge/Status-Complete-006400)
 
+![](https://img.shields.io/badge/Status-Complete-006400)
 <br>
 **Real-Time Forecasting of Tropical Cyclones 🌪️**
 <br>
@@ -68,8 +67,8 @@ In an era where climate change impacts are increasingly evident, accurate weathe
 ![](https://img.shields.io/badge/Notions-PCA-red)
 
 ---
-![](https://img.shields.io/badge/Status-Complete-006400)
 
+![](https://img.shields.io/badge/Status-Complete-006400)
 <br>
 **Wildfire Prediction 🔥**
 <br>
@@ -91,8 +90,8 @@ Data Assimilation was performed in a reduced space to merge outputs from both mo
 ![](https://img.shields.io/badge/Notions-PCA-red)
 
 ---
-![](https://img.shields.io/badge/Status-Complete-006400)
 
+![](https://img.shields.io/badge/Status-Complete-006400)
 <br>
 **Flood risk prediction tool🏘️**
 <br>
@@ -116,7 +115,9 @@ Flooding is a pressing issue and may occur after heavy rainfall, being exacerbat
 ![](https://img.shields.io/badge/Model-Random_Forest_Regressor-darkgreen)
 ![](https://img.shields.io/badge/Model-KNN-orange)
 ![](https://img.shields.io/badge/Model-Logistic_Regression-red)
+
 ---
+
 ![](https://img.shields.io/badge/Status-Complete-006400)
 **Analysis of the environmental condition of Nagasaki, Japan ⛰️**
 <br>
@@ -139,7 +140,6 @@ The task was to perform a first initial benchmark to analyse the environmental c
 ---
 
 ![](https://img.shields.io/badge/Status-Complete-006400)
-
 <br>
 **Image Filters, Projections and Slices 📸**
 <br>
@@ -209,7 +209,7 @@ In April 2024, I participated in my first hackathon, collaborating with a team o
 Submitted weekly results for the football prediction for the Warwick Data Science Society's Premier League Forecasting. Managed to win a financial prize for 4th place. It was my first time writing code, and I had fun with Python.
 
 ![](https://img.shields.io/badge/Library-BeautifulSoup--image-013243?logo=python&logoColor=white)
-![](https://img.shields.io/badge/Library-Scikit-learn--image-013243?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Scikit_learn--image-013243?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Model-Poisson-green)
 
 ---
