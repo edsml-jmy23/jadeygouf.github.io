@@ -13,6 +13,29 @@ for Automated Digitalisation of Geological.
 Surveys’ Line Charts
 <br><br>
 <img src="images/master.png?raw=true" style="width: 100%; height: auto;">
+![](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Platform-Azure-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Environment-Docker-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Opencv-150458?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Scikit--image-013243?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Scikit--learn-F7931E?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Pytesseract-11557C?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-PaddleOCR-4C9A2A?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Pytesseract-008000?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Beautifulsoup4-77B65C?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Roboflow-77B65C?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Tensorboard-77B65C?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Tensorflow-77B65C?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Torch-77B65C?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Torchvision-77B65C?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Model-Yolov8-green)
+![](https://img.shields.io/badge/Model-Detectron2-darkgreen)
+![](https://img.shields.io/badge/Model-Mask_RNN-orange)
+![](https://img.shields.io/badge/Model-DETR-red)
+![](https://img.shields.io/badge/Notions-Text_Extraction-red)
+![](https://img.shields.io/badge/Notions-Optical_Character_Recognition-red)
+![](https://img.shields.io/badge/Notions-Testing-red)
+![](https://img.shields.io/badge/Notions-Images_Preprocessing-red)
 
 ---
 
@@ -50,14 +73,10 @@ ahha
 
 ---
 ![](https://img.shields.io/badge/Status-Complete-006400)
-
 <br>
 **Flood risk prediction tool🏘️**
 <br>
 Flooding is a pressing issue and may occur after heavy rainfall, being exacerbated by recurring events. This research identified areas of England that are at risk of flooding through a prediction model. We created  a model with the capability to classify flood risk for UK postcodes and locations and to visualise and analyse rainfall data in conjunction with the above tool to present risk information to the user.
-<br>
-** Libraries and concepts 🛠️**
-<br>
 
 ![](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Library-Pandas-150458?logo=python&logoColor=white)
