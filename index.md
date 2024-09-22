@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/badge/Status-Ongoing-C95C0A)
 <br>
-Master dissertation at TotalEnergies : VisionGraph: Using Deep Neural Networks
+Master dissertation at TotalEnergies : VisionGraph- Using Deep Neural Networks
 for Automated Digitalisation of Geological.
 Surveys’ Line Charts
 <br><br>
@@ -31,38 +31,25 @@ Surveys’ Line Charts
 ![](https://img.shields.io/badge/Model-Yolov8-green)
 ![](https://img.shields.io/badge/Model-Detectron2-darkgreen)
 ![](https://img.shields.io/badge/Model-Mask_RNN-orange)
-![](https://img.shields.io/badge/Model-DETR-red)
+![](https://img.shields.io/badge/Model-DETR_Transformer-red)
 ![](https://img.shields.io/badge/Notions-Text_Extraction-red)
 ![](https://img.shields.io/badge/Notions-Optical_Character_Recognition-red)
 ![](https://img.shields.io/badge/Notions-Testing-red)
 ![](https://img.shields.io/badge/Notions-Images_Preprocessing-red)
 
----
-
-[![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/jade_ygouf/Twitter)
+--
 ![](https://img.shields.io/badge/Status-Complete-006400)
-<br>
-[Undergraduate Dissertation : From discourses to emotions: A Twitter data-driven study of environmental worry using deep neural networks.](/pdf/undergrad_diss.pdf)
-<br><br>
-<img src="images/undergrad_diss.png?raw=true" style="width: 90%; height: auto;">
-
----
-
-![](https://img.shields.io/badge/Status-Complete-006400)
-![](https://img.shields.io/badge/3rd_place-Sia_Hackathon_2024-bronze)
 
 <br>
 **Real-Time Forecasting of Tropical Cyclones 🌪️**
 <br>
-ahahahhaha
+
 <div style="text-align: center;">
   <img src="images/cyclone.png?raw=true" style="width: 100%; height: auto;">
 </div>
 ---
 ![](https://img.shields.io/badge/Status-Complete-006400)
-![](https://img.shields.io/badge/3rd_place-Sia_Hackathon_2024-bronze)
-[![](https://img.shields.io/badge/Google_Slides-View_Presentation-F4B400?logo=Google%20Slides
-)](https://docs.google.com/presentation/d/1R-vw4E3CUKKcTJrsTFLPDBQqbRnqqgB2/edit?usp=sharing&ouid=117319584829350518488&rtpof=true&sd=true)
+
 <br>
 **Wildfire Prediction 🔥**
 <br>
@@ -77,7 +64,6 @@ ahha
 **Flood risk prediction tool🏘️**
 <br>
 Flooding is a pressing issue and may occur after heavy rainfall, being exacerbated by recurring events. This research identified areas of England that are at risk of flooding through a prediction model. We created  a model with the capability to classify flood risk for UK postcodes and locations and to visualise and analyse rainfall data in conjunction with the above tool to present risk information to the user.
-
 ![](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Library-Pandas-150458?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Library-NumPy-013243?logo=python&logoColor=white)
@@ -101,18 +87,55 @@ Flooding is a pressing issue and may occur after heavy rainfall, being exacerbat
 
 ---
 ![](https://img.shields.io/badge/Status-Complete-006400)
-![](https://img.shields.io/badge/3rd_place-Sia_Hackathon_2024-bronze)
-[![](https://img.shields.io/badge/Google_Slides-View_Presentation-F4B400?logo=Google%20Slides
-)](https://docs.google.com/presentation/d/1R-vw4E3CUKKcTJrsTFLPDBQqbRnqqgB2/edit?usp=sharing&ouid=117319584829350518488&rtpof=true&sd=true)
-<br>
+
 **Analysis of the environmental condition of Nagasaki, Japan ⛰️**
 <br>
-ahaha 
+One day groupproject project
 <div style="text-align: center;">
   <img src="images/data.png?raw=true" style="width: 100%; height: auto;">
 </div>
 
-## Projects
+![](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Tool-QGIS-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Tool-ArcGISPro​-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Tool-Google_Earth_Engine-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Tool-OpenStreetMap-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Data-Landsat_dataset​-yellow)
+![](https://img.shields.io/badge/Data-Rail_and_Road Data​-yellow)
+![](https://img.shields.io/badge/Data-City_Boundaries-yellow)
+![](https://img.shields.io/badge/Notions-Unsupervised_learning​-red)
+
+---
+
+[![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/jade_ygouf/Twitter)
+![](https://img.shields.io/badge/Status-Complete-006400)
+<br>
+[Undergraduate Dissertation : From discourses to emotions: A Twitter data-driven study of environmental worry using deep neural networks.](/pdf/undergrad_diss.pdf)
+<br>
+My final-year dissertation aimed to investigate the discourses surrounding the climate crisis and its emotions, adopting an interdisciplinary approach that integrated sentiment analysis to offer deeper insights into climate psychology. A Twitter dataset containing over 40,000 English-written tweets, collected over four months, was pre-processed for this study. Employing the Long Short-Term Memory model (LSTM), this study analyzed interpersonal expressions related to climate change, with a particular focus on negative emotive content.
+
+The results of this investigation indicated that environmental worry was the most prevalent form of emotion expressed on Twitter about climate change, encompassing a range of multifaceted expressions. Additionally, the vocabulary used in tweets containing negative or positive emotional content differed significantly. Consequently, this research offered valuable insights into developing effective online communication strategies to inspire pro-climate action.
+
+<img src="images/undergrad_diss.png?raw=true" style="width: 90%; height: auto;">
+![](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Tool-Jupyter_Notebook-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Matplolib-150458?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Keras--image-013243?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Nominatim-150458?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Gensim--image-013243?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Tweepy-150458?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Word2vec--image-013243?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Scikit-learn--image-013243?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Scikit-learn--image-013243?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Model-LSTM-green)
+![](https://img.shields.io/badge/Model-RNN-green)
+![](https://img.shields.io/badge/Notions-NLP-red)
+![](https://img.shields.io/badge/Notions-GloVe-red)
+![](https://img.shields.io/badge/Notions-LDA-red)
+![](https://img.shields.io/badge/Notions-Social_media_datasets-red)
+---
+
+## Projects on the side of my studies
 ### Hackathons and Competitions
 
 ![](https://img.shields.io/badge/Status-Complete-006400)
@@ -126,24 +149,27 @@ In April 2024, I participated in my first hackathon, collaborating with a team o
 <div style="text-align: center;">
   <img src="images/sustainachain.png?raw=true" style="width: 100%; height: auto;">
 </div>
-
+![](https://img.shields.io/badge/Language-Tezos_blockchain-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Notions-Business_model-red)
+![](https://img.shields.io/badge/Notions-Sustainability-red)
+![](https://img.shields.io/badge/Notions-Teamwork-red)
 ---
 
 ![](https://img.shields.io/badge/Status-Complete-006400)
 ![](https://img.shields.io/badge/3rd_place-Sia_Hackathon_2024-bronze)
 
 <br>
-** Premier League Algorithm  ⚽ - Hackathon-W3B London 2024 (Bronze)🥉**
+** Warwick Data Science Society - Premier League Forecasting Competition 2023 ⚽ (4th Place) **
 <br>
-In April 2024, I participated in my first hackathon, collaborating with a team of students I had never met before. Over the course of two intense days, we developed the source code for an MVP called Sustainachain, leveraging Tezos blockchain technology. Sustainachain is designed to enhance traceability and transparency for food retailers, helping them differentiate themselves by restoring consumer trust. The tool empowers customers to make informed choices by allowing them to trace organic products from farm to supermarket using secure codes, preventing fraud and ensuring the integrity of organic certifications. As someone new to blockchain and cryptocurrency, this experience was an invaluable opportunity to learn both the fundamentals of blockchain technology and the process of creating a viable business model. 
+ahaha. 
 <div style="text-align: center;">
   <img src="images/sustainachain.png?raw=true" style="width: 100%; height: auto;">
 </div>
 
 ---
 
-### Kaggle Competitions
-![](https://img.shields.io/badge/Status-Complete-006400)
+### Kaggle Competitions in my free time
+![](https://img.shields.io/badge/Status-Ongoing-C95C0A)
 [![](https://img.shields.io/badge/Google_Colab-View_Project-F9AB00?logo=Colab)](https://colab.research.google.com/drive/1UxO3P1JRrXY3lyrIQey_nOZGo1wpey8T?usp=sharing)
 <br>
 **Can inflammatory negative sentiment predict in-degree centrality in online social networks? A Reddit data analysis**
@@ -153,51 +179,4 @@ This project investigated whether inflammatory negative sentiment predict in-deg
 <div style="text-align: center;">
   <img src="images/reddit_example.png?raw=true" style="width: 80%; height: auto;">
 </div>
-
----
-
-![](https://img.shields.io/badge/Status-Complete-006400)
-[![](https://img.shields.io/badge/Google_Colab-View_Project-F9AB00?logo=Colab)](https://colab.research.google.com/drive/10WElhtYH5XX3_i5wm50BfwTHp_gCiJHK?usp=sharing)
-<br>
-**A data deep-dive into the 'cooking' Stack Exchange forum**
-<br>
-This was a data-driven exploration of the Stack Exchange forum on cooking. The project involved data acquisition with a Stack Exchange scraper, as well as the construction of an MVP Score, measuring the helpfulness of a user on the forum, using activity, text and time metrics. The score is a weighted index with PCA-derived weights. Using the index, various patterns were identified, such as the geographic distribution of helpful users (MVPs).   
-<br><br>
-<div style="text-align: center;">
-  <img src="images/StackX_example.png?raw=true" style="width: 100%; height: auto;">
-</div>
----
-
-![](https://img.shields.io/badge/Status-Online-006400)
-[![](https://img.shields.io/badge/Published-See_Online-3792CB)](https://www.brookings.edu/articles/tracking-emissions-by-country-and-sector/)
-<br>
-[**World Emissions Clock**](https://worldemissions.io)
-<br><br>
-At the World Data Lab, I play a key role in the development of, and insight mining from, the World Emissions Clock (WEC) tool. Launched at COP27, the WEC tracks and forecasts greenhouse gas emissions for 180 countries, 24 subsectors, along 3 emissions policy scenarios.
-<br><br>
-<img src="images/WEC_logos.png?raw=true" style="width: 100%; height: auto;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2_Umq8Uo1CQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-## Medium Article
-![](https://img.shields.io/badge/Status-Complete-006400)
-[![](https://img.shields.io/badge/Published-See_Online-3792CB)](https://www.brookings.edu/articles/building-a-prosperous-world-with-fewer-emissions/)
-[![](https://img.shields.io/badge/_-Watch_video-FF0000?logo=YouTube)](https://www.youtube.com/watch?v=lcD5tQhJbq8)
-<br>
-**Towards Low Carbon Prosperity**
-<br><br>
-Using the WEC, I led research on the possibility of a world which is prosperous yet sustainable - where developed economies can scale down emissions while maintaining wealth, and where developing economies can safely grow while keeping GHG emissions low. We found that if the rich countries adopted the best practices of their peers within each sector, level of emissions would decline to only 3.3 tons per capita—less than half of the world average and only around 20% of the per-capita emission of the U.S. We also found that the rich cannot alone solve the problem - it is crucial that both developed and developing nations take corrective action.
-<br><br>
-<div style="text-align: center;">
-  <img src="images/zeroOECD.png?raw=true" style="width: 100%; height: auto;">
-</div>
----
-
-![](https://img.shields.io/badge/Status-Online-006400)
-<br>
-[**World Data Pro**](https://www.linkedin.com/products/worlddatalab-world-data-pro/)
-<br><br>
-At the World Data Lab, I support the development of World Data Pro - a leading insights and analytics platform used by business strategy and consumer insights leaders, investors, policymakers, economists, and researchers to forecast and quantify addressable markets, discover emerging opportunities, develop market and product strategies, and quantify impact. My main involvement has been in insights-mining, QAQC, data acquisition and researching missing data. 
-<br><br>
-<img src="images/worlddatalab_world_data_pro_image.png?raw=true" style="width: 100%; height: auto;">
 
