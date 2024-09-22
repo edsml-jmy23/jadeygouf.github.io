@@ -9,9 +9,13 @@
 ![](https://img.shields.io/badge/Status-Ongoing-C95C0A)
 <br>
 Master dissertation at TotalEnergies : VisionGraph- Using Deep Neural Networks
-for Automated Digitalisation of Geological.
-Surveys’ Line Charts
+for Automated Digitalisation of Geological Surveys’ Line Charts 📈. 
 <br><br>
+
+The climate and the biodiversity crisis are probably the greatest challenges of our time. To mitigate its detrimental consequences, carbon capture and storage (CCS) is a critical element of carbon management. TotalEnergies, leader in energy and petroleum, aims to develop a CO2 storage capacity of ‘more than 10 million metric tonnes per year by 2030’. In line with this plan, the TotalEnergies’ CSS team must conduct thorough investigations to assess geological regions and determine whether safe and longterm CO2 storage is feasible. The first task involves examining hundreds of geological studies.
+The main challenge encountered is that various artefacts, such as handwritten texts, brightness variability, and scan defects, are present in the scanned studies. To address these issues, this research project harnesses the power of supervised and transfer learning techniques to process scanned reports and “digitise line charts data (i.e., extract the analytical formulation of the written curve)" . Although various models, including DETR, were evaluated
+on the target dataset, YOLOv8 delivered impressive performance, particularly when assessed on metrics like mean average precision at a 50% IoU threshold for segmentation (mAP50) and average precision for IoU thresholds ranging from 50% to 95% (mAP50:95), achieving a score of 0.70 for the former and a score of 0.23 for the latter.
+
 <img src="images/master.png?raw=true" style="width: 100%; height: auto;">
 ![](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Platform-Azure-3776AB?logo=python&logoColor=white)
@@ -37,34 +41,67 @@ Surveys’ Line Charts
 ![](https://img.shields.io/badge/Notions-Testing-red)
 ![](https://img.shields.io/badge/Notions-Images_Preprocessing-red)
 
---
+---
 ![](https://img.shields.io/badge/Status-Complete-006400)
 
 <br>
 **Real-Time Forecasting of Tropical Cyclones 🌪️**
 <br>
-
+In an era where climate change impacts are increasingly evident, accurate weather forecasting has never been more crucial. Our project harnesses the power of deep learning to tackle the complexities of weather prediction, particularly for the U.S. coastline. By using a LSTM model, we predicted wind speed under different scenarios.To enhance our predictive capabilities, we generated three additional samples of satellite images using a ConvLSTM network, assuming the time sampling aligns with our predictions. This enriched our dataset and improved model accuracy.
 <div style="text-align: center;">
   <img src="images/cyclone.png?raw=true" style="width: 100%; height: auto;">
 </div>
+
+![](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Platform-Github-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Pytorch-150458?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Seaborn-150458?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Scikit-learn-150458?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Statsmodels-150458?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Scipy-150458?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Matplotlib-150458?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Pmdarima-150458?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Documentation-Sphinx-yellow)
+![](https://img.shields.io/badge/Model-ARIMA-orange)
+![](https://img.shields.io/badge/Model-CNN+LSTM-orange)
+![](https://img.shields.io/badge/Model-ConvLSTM-orange)
+![](https://img.shields.io/badge/Notions-EDA-red)
+![](https://img.shields.io/badge/Notions-PCA-red)
 ---
 ![](https://img.shields.io/badge/Status-Complete-006400)
 
 <br>
 **Wildfire Prediction 🔥**
 <br>
-ahha 
+The wildfire prediction system was developed using Recurrent Neural Networks (RNN), Generative AI, and Data Assimilation techniques. The RNN-based surrogate model was trained on historical wildfire data, capturing temporal patterns in wildfire behavior. A separate Generative AI model was also trained to simulate wildfire spread by generating synthetic scenarios.
+
+Data Assimilation was performed in a reduced space to merge outputs from both models, improving accuracy by incorporating real-time data. This integrated approach provided more reliable wildfire predictions, aiding disaster preparedness and response efforts. 
 <div style="text-align: center;">
   <img src="images/wildfire.png?raw=true" style="width: 100%; height: auto;">
 </div>
-
+![](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Platform-Github-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Pytorch-150458?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Model-Variational_autoencoder-green)
+![](https://img.shields.io/badge/Model-Convolutional_Variational_autoencoder-darkgreen)
+![](https://img.shields.io/badge/Model-CNN-orange)
+![](https://img.shields.io/badge/Model-Generative_adversarial_network_(GAN)-orange)
+![](https://img.shields.io/badge/Model-ConvLSTM-orange)
+![](https://img.shields.io/badge/Notions-Data_Assimilation-red)
+![](https://img.shields.io/badge/Notions-PCA-red)
 ---
 ![](https://img.shields.io/badge/Status-Complete-006400)
 <br>
 **Flood risk prediction tool🏘️**
 <br>
 Flooding is a pressing issue and may occur after heavy rainfall, being exacerbated by recurring events. This research identified areas of England that are at risk of flooding through a prediction model. We created  a model with the capability to classify flood risk for UK postcodes and locations and to visualise and analyse rainfall data in conjunction with the above tool to present risk information to the user.
+
+<div style="text-align: center;">
+  <img src="images/flood.png?raw=true" style="width: 100%; height: auto;">
+</div>
+
 ![](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Platform-Github-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Library-Pandas-150458?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Library-NumPy-013243?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Library-Scikit--learn-F7931E?logo=python&logoColor=white)
@@ -77,14 +114,6 @@ Flooding is a pressing issue and may occur after heavy rainfall, being exacerbat
 ![](https://img.shields.io/badge/Model-Random_Forest_Regressor-darkgreen)
 ![](https://img.shields.io/badge/Model-KNN-orange)
 ![](https://img.shields.io/badge/Model-Logistic_Regression-red)
-
-
-<div style="text-align: center;">
-  <img src="images/flood.png?raw=true" style="width: 100%; height: auto;">
-</div>
-
-
-
 ---
 ![](https://img.shields.io/badge/Status-Complete-006400)
 
@@ -94,8 +123,10 @@ One day groupproject project
 <div style="text-align: center;">
   <img src="images/data.png?raw=true" style="width: 100%; height: auto;">
 </div>
+The task was to perform a first initial benchmark to analyse the environmental condition of Nagasaki, Japan, using Earth Observation archive data. The first part involved producing a land-cover classification map. This began with a single dataset to develop the workflow and ensure that the processing pipeline functioned correctly and produced representative classes. Following this, a time-series analysis was built to examine changes in land cover over time.
 
 ![](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Platform-Github-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Tool-QGIS-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Tool-ArcGISPro​-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Tool-Google_Earth_Engine-3776AB?logo=python&logoColor=white)
@@ -106,11 +137,25 @@ One day groupproject project
 ![](https://img.shields.io/badge/Notions-Unsupervised_learning​-red)
 
 ---
+![](https://img.shields.io/badge/Status-Complete-006400)
+<br>
+**Image Filters, Projections and Slices 📸 **
+<br>
+In this project, the core task was to develop a C++ program for image processing, applying the skills and techniques acquired from the Advanced Programming course. This C++ tool preprocessed one of the given images or scans in the 'Images' or 'Scans' folder. It applied a range of image filters and orthographic projections to an input 2D image or 3D data volume. Through the designed interface, the user could combine multiple filters for the 2D image. This code also sliced both 2D and 3D images.The processed output is then generated as an image.
+
+To compile the code, we used C++17, the most recent version of C++. 
+
+![](https://img.shields.io/badge/Language-C++-3776AB?logo=C++&logoColor=white)
+![](https://img.shields.io/badge/Documentation-Doxygen-green)
+![](https://img.shields.io/badge/Notion-3D_Gaussian_filter-darkgreen)
+![](https://img.shields.io/badge/Notion-Salt_and_pepper_filter-darkgreen)
+![](https://img.shields.io/badge/Notion-cpp_and_h_files-darkgreen)
+---
 
 [![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/jade_ygouf/Twitter)
 ![](https://img.shields.io/badge/Status-Complete-006400)
 <br>
-[Undergraduate Dissertation : From discourses to emotions: A Twitter data-driven study of environmental worry using deep neural networks.](/pdf/undergrad_diss.pdf)
+[**Undergraduate Dissertation : From discourses to emotions: A Twitter data-driven study of environmental worry using deep neural networks.📱**](/pdf/undergrad_diss.pdf)
 <br>
 My final-year dissertation aimed to investigate the discourses surrounding the climate crisis and its emotions, adopting an interdisciplinary approach that integrated sentiment analysis to offer deeper insights into climate psychology. A Twitter dataset containing over 40,000 English-written tweets, collected over four months, was pre-processed for this study. Employing the Long Short-Term Memory model (LSTM), this study analyzed interpersonal expressions related to climate change, with a particular focus on negative emotive content.
 
@@ -168,13 +213,13 @@ ahaha.
 
 ---
 
-### Kaggle Competitions in my free time
+### Ongoing Kaggle Competitions 
 ![](https://img.shields.io/badge/Status-Ongoing-C95C0A)
 [![](https://img.shields.io/badge/Google_Colab-View_Project-F9AB00?logo=Colab)](https://colab.research.google.com/drive/1UxO3P1JRrXY3lyrIQey_nOZGo1wpey8T?usp=sharing)
 <br>
 **Can inflammatory negative sentiment predict in-degree centrality in online social networks? A Reddit data analysis**
 <br>
-This project investigated whether inflammatory negative sentiment predict in-degree centrality in online social networks. Using a sample of 5 submissions on r/UmbrellaAcademy, discourse around Elliot Page coming out as a transgender man was scored using sentiment analysis. The extracted data was used to construct a network of comments, and the in-degree centrality of each node was compared to inflammatory negative sentiment using multiple regression with time fixed effects. The results suggest that inflammatory negative sentiment does not have a strong positive effect on centrality, but instead a weak positive one.
+ahah.
 <br><br>
 <div style="text-align: center;">
   <img src="images/reddit_example.png?raw=true" style="width: 80%; height: auto;">
