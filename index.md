@@ -2,7 +2,7 @@
 
 ---
 
-## Academic projects and research 
+## Relevant Academic projects and research 
 
 ---
 
@@ -118,7 +118,6 @@ Flooding is a pressing issue and may occur after heavy rainfall, being exacerbat
 ![](https://img.shields.io/badge/Model-Logistic_Regression-red)
 ---
 ![](https://img.shields.io/badge/Status-Complete-006400)
-
 **Analysis of the environmental condition of Nagasaki, Japan ⛰️**
 <br>
 The task was to perform a first initial benchmark to analyse the environmental condition of Nagasaki, Japan, using Earth Observation archive data. The first part involved producing a land-cover classification map. This began with a single dataset to develop the workflow and ensure that the processing pipeline functioned correctly and produced representative classes. Following this, a time-series analysis was built to examine changes in land cover over time.
@@ -140,8 +139,9 @@ The task was to perform a first initial benchmark to analyse the environmental c
 ---
 
 ![](https://img.shields.io/badge/Status-Complete-006400)
+
 <br>
-**Image Filters, Projections and Slices 📸 **
+**Image Filters, Projections and Slices 📸**
 <br>
 In this project, the core task was to develop a C++ program for image processing, applying the skills and techniques acquired from the Advanced Programming course. This C++ tool preprocessed one of the given images or scans in the 'Images' or 'Scans' folder. It applied a range of image filters and orthographic projections to an input 2D image or 3D data volume. Through the designed interface, the user could combine multiple filters for the 2D image. This code also sliced both 2D and 3D images.The processed output is then generated as an image.
 
@@ -199,29 +199,30 @@ In April 2024, I participated in my first hackathon, collaborating with a team o
 ![](https://img.shields.io/badge/Notions-Business_model-red)
 ![](https://img.shields.io/badge/Notions-Sustainability-red)
 ![](https://img.shields.io/badge/Notions-Teamwork-red)
-
 ---
 
 ![](https://img.shields.io/badge/Status-Complete-006400)
-![](https://img.shields.io/badge/3rd_place-Sia_Hackathon_2024-bronze)
-
+[![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/jadeygouf/WDSC-Premier-League-Forecasting-Competition-2023/)
 <br>
-** Warwick Data Science Society's Premier League Forecasting Competition 2023 ⚽ (4th Place) **
+**Warwick Data Science Society's Premier League Forecasting Competition 2023 ⚽ (4th Place)**
 <br>
-ahaha. 
+Submitted weekly results for the football prediction for the Warwick Data Science Society's Premier League Forecasting. Managed to win a financial prize for 4th place. It was my first time writing code, and I had fun with Python.
 
+![](https://img.shields.io/badge/Library-BeautifulSoup--image-013243?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Scikit-learn--image-013243?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Model-Poisson-green)
 
 ---
 
 ### Ongoing Kaggle Competitions 
 ![](https://img.shields.io/badge/Status-Ongoing-C95C0A)
-[![](https://img.shields.io/badge/Google_Colab-View_Project-F9AB00?logo=Colab)](https://colab.research.google.com/drive/1UxO3P1JRrXY3lyrIQey_nOZGo1wpey8T?usp=sharing)
+[![](https://img.shields.io/badge/Github-View_Project-6A4A3A?logo=GitHub)](https://github.com/jadeygouf/Kaggle_competition_Google-Research---Identify-Contrails-to-Reduce-Global-Warming)
 <br>
-**Can inflammatory negative sentiment predict in-degree centrality in online social networks? A Reddit data analysis**
+**Google Research - Identify Contrails to Reduce Global Warming**
 <br>
-ahah.
+Contrails are clouds of ice crystals that form in aircraft engine exhaust. They can contribute to global warming by trapping heat in the atmosphere. Researchers have developed models to predict when contrails will form and how much warming they will cause. However, they need to validate these models with satellite imagery.
 <br><br>
 <div style="text-align: center;">
-  <img src="images/reddit_example.png?raw=true" style="width: 80%; height: auto;">
+  <img src="images/contrails.png?raw=true" style="width: 80%; height: auto;">
 </div>
 
