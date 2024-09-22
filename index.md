@@ -41,7 +41,7 @@ ahahahhaha
 [![](https://img.shields.io/badge/Google_Slides-View_Presentation-F4B400?logo=Google%20Slides
 )](https://docs.google.com/presentation/d/1R-vw4E3CUKKcTJrsTFLPDBQqbRnqqgB2/edit?usp=sharing&ouid=117319584829350518488&rtpof=true&sd=true)
 <br>
-** Wildfire Prediction 🔥 **
+**Wildfire Prediction 🔥**
 <br>
 ahha 
 <div style="text-align: center;">
@@ -52,22 +52,26 @@ ahha
 ![](https://img.shields.io/badge/Status-Complete-006400)
 
 <br>
-** Flood risk prediction tool🏘️**
+**Flood risk prediction tool🏘️**
 <br>
 Flooding is a pressing issue and may occur after heavy rainfall, being exacerbated by recurring events. This research identified areas of England that are at risk of flooding through a prediction model. We created  a model with the capability to classify flood risk for UK postcodes and locations and to visualise and analyse rainfall data in conjunction with the above tool to present risk information to the user.
 <br>
 ** Libraries and concepts 🛠️**
 <br>
 
-![](https://img.shields.io/badge/Tools-Python-3776AB?logo=python&logoColor=white)
-![](https://img.shields.io/badge/Library-Pandas-150458?logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/Library-NumPy-013243?logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/Library-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Pandas-150458?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-NumPy-013243?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Scikit--learn-F7931E?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Library-Matplotlib-11557C?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Library-Seaborn-4C9A2A?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Library-Geopandas-008000?logo=python&logoColor=white)
-![](https://img.shields.io/badge/Library-Folium-77B65C?logo=python&logoColor=white)
-![](https://img.shields.io/badge/Tool-Jupyter_Notebook-F37626?logo=jupyter&logoColor=white)
+![](https://img.shields.io/badge/Library-Pytest-77B65C?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Library-Scipy-77B65C?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Model-Random_Forest_Classifier-green)
+![](https://img.shields.io/badge/Model-Random_Forest_Regressor-darkgreen)
+![](https://img.shields.io/badge/Model-KNN-orange)
+![](https://img.shields.io/badge/Model-Logistic_Regression-red)
 
 
 <div style="text-align: center;">
